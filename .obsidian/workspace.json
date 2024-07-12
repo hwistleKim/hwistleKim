@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-13.md",
+                "file": "_posts/2024-07-11-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-13.md",
+                "file": "_posts/2024-07-11-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-13.md",
+                "file": "_posts/2024-07-11-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-13.md"
+                "file": "_posts/2024-07-11-first.md"
               }
             }
           }
@@ -148,31 +148,39 @@
   },
   "active": "9aeb2baf52f24da7",
   "lastOpenFiles": [
-    "_site/Jekyll Serve.lnk",
-    "Jekyll Serve.lnk",
-    "새 바로 가기.lnk",
+    "_site/tags/index.html",
+    "_site/tags",
+    "_site/coding/first/index.html",
+    "_site/coding/first",
+    "_site/categories/index.html",
+    "_site/categories",
+    "_site/coding/second/index.html",
+    "_site/coding/second",
+    "_site/coding",
+    "_site/_pages/tag-archive.md",
+    "_pages/tag-archive.md",
+    "_site/_pages/category-archive.md",
+    "_pages/category-archive.md",
+    "_site/_pages/category-",
+    "_site/_pages",
+    "_posts/2024-07-13.md",
+    "_posts/2024-07-13-second.md",
     "_posts/2024-07-11-first.md",
     "images/Pastedimage20240713012934.png",
     "images/Pastedimage20240713013745.png",
-    "_posts/2024-07-13.md",
     "_site/images/Pastedimage20240713012934.png",
     "_site/images/Pastedimage20240713013745.png",
     "_site/images/Pasted image 20240713013745.png",
     "assets/post.md",
     "_posts/2024-07-13-.md",
-    "_site/assets/post/index.html",
-    "_site/assets/post",
     "_site/assets/post.md",
     "_site/assets/Post.md",
     "_site/assets/무제 파일.md",
     "CHANGELOG.md",
     "_site/images/Pasted image 20240713012934.png",
-    "_site/images",
     "images/Pasted image 20240713012512.png",
     "_site/images/Pasted image 20240713012512.png",
     "images/Pasted image 20240713010528.png",
-    "_site/first/index.html",
-    "_site/first",
     "_site/images/Pasted image 20240713010528.png"
   ]
 }

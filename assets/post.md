@@ -1,4 +1,6 @@
 ---
-layout: 
-title:
+layout: single 
+title: ""
+categories: 
+tag: 
 ---
