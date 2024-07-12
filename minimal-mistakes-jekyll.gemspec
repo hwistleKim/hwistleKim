@@ -1,3 +1,4 @@
+
 require "json"
 
 package_json = JSON.parse(File.read("package.json"))
@@ -27,3 +28,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake", ">= 12.3.3"
 end
+
