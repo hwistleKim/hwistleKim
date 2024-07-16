@@ -1,10 +1,10 @@
 ---
-layout: single 
+layout: single
 title: ""
 categories: 
-tag:
+tags: 
 toc: true
 author_profile: false
 sidebar:
-    nav: "docs"
+  nav: docs
 ---
